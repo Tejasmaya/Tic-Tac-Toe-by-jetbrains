@@ -1,3 +1,4 @@
+```
 # Tic-Tac-Toe by jetbrains
  a simple python game project
 
@@ -73,3 +74,4 @@ while not win_or_draw:
             win_or_draw = True
             print(res)
     count_move += 1
+```
